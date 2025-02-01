@@ -1,0 +1,3 @@
+[submodule "ACS712"]
+	path = ACS712
+	url = https://github.com/RobTillaart/ACS712.git
